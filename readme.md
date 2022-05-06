@@ -1,9 +1,9 @@
-# Time locker token contract for binance smart chain and Ethereum
+# Wonderman time locker token contract for binance smart chain and Ethereum if needed,
 
-This utility smart contact can be used to build DAPP which can lock LP Tokens or any BEP20 or ERC20 Tokens (Depends on deployment chain) to smart contract for specific period of time.
+This utility smart contact will be used to build dApps to lock WONDR BEP20 Tokens (Depends on deployment chain) to a smart contract for specific period of time. It can be leveraged to lock ERC20 variant tokens if required.
 
 ### Quick Documentation
-You can specify Fees in BNB/ETH or in percent in Smart Contract file. Owner of smart contract can change these values after deploying smart conract.
+Fees in BNB/ETH or in percent in Smart Contract file. The smart contract owner can manage these values after deploying smart conract.
 
 #### Files and usage
 ##### .secret
@@ -18,7 +18,7 @@ File which contains 12 secret mnemonic phrases of your hd wallet.
 
 ## Authors
 
-* Hiren Kavad
+* Bill Petridis
 
 ## License
 
