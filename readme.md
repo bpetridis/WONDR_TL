@@ -11,7 +11,7 @@ File which contains 12 secret mnemonic phrases of your hd wallet.
 
 ##### Deploy smart contact
  - ```npm init```
- - ```npm install```
+ - ```npm install -d```
  - Copiling smart contract ```truffle compile```
  - Deploying smart contract - ```truffle migrate --network=testnet``` Choose network from ```truffle-config.js``` file.
  - Verify smart contract on bscscan/etherscan (API Keys are needed)- ```truffle run verify Airdrop@{ContractAddress} --network testnet```
