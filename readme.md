@@ -10,6 +10,7 @@ Fees in BNB/ETH or in percent in Smart Contract file. The smart contract owner c
 File which contains 12 secret mnemonic phrases of your hd wallet.
 
 ##### Deploy smart contact
+ - ```npm init```
  - ```npm install```
  - Copiling smart contract ```truffle compile```
  - Deploying smart contract - ```truffle migrate --network=testnet``` Choose network from ```truffle-config.js``` file.
