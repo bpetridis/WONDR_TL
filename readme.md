@@ -18,6 +18,7 @@ File which contains 12 secret mnemonic phrases of your hd wallet.
 
 ## Authors
 
+* Hiren Kavad
 * Bill Petridis
 
 ## License
@@ -27,5 +28,9 @@ This bundle is dual-licensed under MIT and GPL licenses.
 * [http://www.opensource.org/licenses/mit-license.php](http://www.opensource.org/licenses/mit-license.php)
 * [http://www.gnu.org/licenses/gpl.html](http://www.gnu.org/licenses/gpl.html)
 
-Use it, change it, fork it, sell it. Do what you will, but please leave the author attribution.
+Feel free to use this contract but please leave the author attribution.
+
+## Project information
+* https://www.wondermannation.com/
+
 
